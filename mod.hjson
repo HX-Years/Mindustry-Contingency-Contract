@@ -1,0 +1,8 @@
+displayName: "Mindustry Contingency Contract"
+name: "example-java-mod"
+author: "HX-Years"
+main: "example.ExampleJavaMod"
+description: "关于Mindustry的危机合约！带来更多的挑战！"
+version: 0.1beta
+minGameVersion: 145
+java: true
